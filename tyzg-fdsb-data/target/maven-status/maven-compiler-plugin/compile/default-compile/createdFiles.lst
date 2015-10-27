@@ -1,0 +1,8 @@
+com\tyzg\fdsb\service\impl\MoniServiceImpl.class
+com\tyzg\fdsb\entity\Carinfo.class
+com\tyzg\fdsb\facade\CustomeFacade.class
+com\tyzg\fdsb\entity\Custome_.class
+com\tyzg\fdsb\entity\Carinfo_.class
+com\tyzg\fdsb\facade\CarinfoFacade.class
+com\tyzg\fdsb\entity\Custome.class
+com\tyzg\fdsb\facade\AbstractFacade.class
